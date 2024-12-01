@@ -1,18 +1,22 @@
-# Hi 👋, I'm Shreyas Suresh
+# 🌟 Hi, I'm **Shreyas Suresh** 👋
 
-### A passionate student and chess enthusiast
+### A passionate student, coder, and chess enthusiast 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyassuresh&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 🚀 About Me:
+## 🎯 **About Me:**
 
-I am a passionate student with a love for **coding** and **chess**. I am constantly learning and growing in the fields of programming, problem-solving, and AI. I love to tackle challenges and build innovative solutions.
+I'm a student with a deep love for **coding** and **chess**. I enjoy problem-solving and building innovative solutions. I'm always learning and exploring new fields, particularly in **AI**, **Machine Learning**, and **Web Development**.
+
+- 📍 **Location**: India 🇮🇳
+- 💻 **Languages**: Python, JavaScript, Java, C, SQL, etc.
+- 🧩 **Interests**: AI, Data Science, Web Development, Chess ♟️
 
 ---
 
-## 🎯 Connect with Me:
+## 📞 **Connect with Me:**
 
 <p align="center">
   <a href="https://twitter.com/@shreyassuresh30" target="blank">
@@ -25,13 +29,14 @@ I am a passionate student with a love for **coding** and **chess**. I am constan
 
 ---
 
-## 📫 How to reach me:
+## 📩 **How to Reach Me:**
 
-- Email: [shreyas30j@gmail.com](mailto:shreyas30j@gmail.com)
+- ✉️ **Email**: [shreyas30j@gmail.com](mailto:shreyas30j@gmail.com)
+- 🌐 **LinkedIn**: [Shreyas Suresh](https://www.linkedin.com/in/shreyassuresh/)
 
 ---
 
-## 🧑‍💻 GitHub Stats:
+## 🧑‍💻 **GitHub Stats:**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyassuresh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -47,7 +52,7 @@ I am a passionate student with a love for **coding** and **chess**. I am constan
 
 ---
 
-## 🏅 LeetCode Streak:
+## 🏅 **LeetCode Streak:**
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/xeelh4ygbt?theme=dark&font=ubuntu&ext=heatmap&border_radius=5" alt="LeetCode Streak" />
@@ -55,7 +60,7 @@ I am a passionate student with a love for **coding** and **chess**. I am constan
 
 ---
 
-## 🌐 Languages and Tools:
+## 🌐 **Languages and Tools I Use:**
 
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -113,24 +118,33 @@ I am a passionate student with a love for **coding** and **chess**. I am constan
 
 ---
 
-## 🏆 Badges:
+## 💡 **Why Code?**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Streak-brightgreen?style=flat" alt="LeetCode Streak" />
-  <img src="https://img.shields.io/badge/Codechef-5%20Stars-orange?style=flat" alt="Codechef Badge" />
-</p>
+> "Code is like a canvas — you paint it with logic and creativity."
+
+I believe coding is more than just solving problems; it's about creating elegant and beautiful solutions that can have a significant impact on the world. Coding gives me the power to build and innovate, and it’s an incredible tool for transforming ideas into reality.
+
+---
+
+
+
+## 🌱 **Currently Learning:**
+
+- **Data Science**: Working on improving my skills in data analysis, visualization, and machine learning.
+- **AI/ML**: Exploring cutting-edge technologies in **Artificial Intelligence** and **Machine Learning**.
+- **Web Development**: Learning modern **JavaScript** frameworks and building dynamic web applications.
 
 ---
 
-### 🎨 A Beautiful Coding Pattern:
+## 🎮 **Chess**:
 
-<div style="background-color:#0a0f1a; padding: 40px; border-radius: 15px;">
-  <h2 style="text-align:center; color:white;">Code is Beautiful</h2>
-  <p style="text-align:center; font-size: 18px; color:#4f6d7a;">Coding isn't just about writing lines of code; it's about creating beautiful solutions. Here’s to beautiful patterns!</p>
-  <p style="text-align:center; color:#8ab6d6; font-size: 20px;">"Code is like a canvas — you paint it with logic and creativity."</p>
-</div>
+In addition to coding, I'm a huge fan of **chess**! I believe chess improves strategic thinking, and I love participating in online tournaments.
 
 ---
+
+
+### Thanks for visiting my profile! 🌟
+
 
 
 
