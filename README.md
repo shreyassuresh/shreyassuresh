@@ -1,5 +1,5 @@
 
-![1_VMmvImch6VU5pc2VktY1uw](https://github.com/user-attachments/assets/06234aad-238f-408c-a627-ca3f19ce9078)
+![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/c37541a9-9736-4a74-888f-7e0b9b4053f0)
 # 🌟 Hi, I'm **Shreyas Suresh** 👋
 
 
