@@ -1,5 +1,7 @@
-
-![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/c37541a9-9736-4a74-888f-7e0b9b4053f0)
+ <!-- Optimized image with blending effect -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c37541a9-9736-4a74-888f-7e0b9b4053f0" alt="Profile Image" width="300" style="border-radius: 8px; opacity: 0.7; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+</p>
 # 🌟 Hi, I'm **Shreyas Suresh** 👋
 
 
