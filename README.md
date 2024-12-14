@@ -1,4 +1,7 @@
+
+![1_VMmvImch6VU5pc2VktY1uw](https://github.com/user-attachments/assets/06234aad-238f-408c-a627-ca3f19ce9078)
 # 🌟 Hi, I'm **Shreyas Suresh** 👋
+
 
 ### A passionate student, coder, and chess enthusiast 🚀
 
