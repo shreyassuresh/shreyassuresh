@@ -1,6 +1,6 @@
  <!-- Optimized image with blending effect -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c37541a9-9736-4a74-888f-7e0b9b4053f0" alt="Profile Image" width="300" style="border-radius: 8px; opacity: 0.7; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  <img src="https://github.com/user-attachments/assets/c37541a9-9736-4a74-888f-7e0b9b4053f0" alt="Profile Image" width="500" style="border-radius: 8px; opacity: 0.7; box-shadow: 0 4px 10px rgba(0,0,0,0.2); max-width: 100%; height: auto;">
 </p>
 <!-- Larger and darker text -->
 <h1 style="font-size: 50px; color: #2C3E50; font-weight: bold;">🌟 Hi, I'm <span style="color: #1A5276;">Shreyas Suresh</span> 👋</h1>
