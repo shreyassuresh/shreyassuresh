@@ -58,9 +58,27 @@ I'm a student with a deep love for **coding** and **chess**. I enjoy problem-sol
 
 ---
 
-## 🏅 **LeetCode Streak:**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/Shreyas_Suresh?theme=dark&font=ubuntu&ext=heatmap&border_radius=5" alt="LeetCode Stats" width="90%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/2cab995f-1484-4009-80ed-a30adefe0e2f" alt="2024 Streak 50" width="150" /> <img src="https://github.com/user-attachments/assets/467cce72-3fb6-4f3b-9204-1602c7b62dd8" alt="2024 Streak 12" width="150" /> <img src="https://github.com/user-attachments/assets/367ac8a0-2c81-4e67-a862-3b03d823add7" alt=" 2024 Streak 11" width="150" /> </p>
+## 🏅 **LeetCode Progress:**
+
+<p align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/Shreyas_Suresh?ext=contest&theme=dark&font=ubuntu" 
+       alt="LeetCode Contest Rating" 
+       width="90%" 
+       style="margin-top: -20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2cab995f-1484-4009-80ed-a30adefe0e2f" alt="2024 Streak 50" width="150" />
+  <img src="https://github.com/user-attachments/assets/467cce72-3fb6-4f3b-9204-1602c7b62dd8" alt="2024 Streak 12" width="150" />
+  <img src="https://github.com/user-attachments/assets/367ac8a0-2c81-4e67-a862-3b03d823add7" alt="2024 Streak 11" width="150" />
+</p>
+
+
+
+
+
 
 
 ---
