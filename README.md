@@ -59,6 +59,7 @@ I'm a student with a deep love for **coding** and **chess**. I enjoy problem-sol
 
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/13fe266e-3879-4976-a963-9bc4196056fd" alt="202501" width="150" />
   <img src="https://github.com/user-attachments/assets/2cab995f-1484-4009-80ed-a30adefe0e2f" alt="2024 Streak 50" width="150" />
   <img src="https://github.com/user-attachments/assets/467cce72-3fb6-4f3b-9204-1602c7b62dd8" alt="2024 Streak 12" width="150" />
   <img src="https://github.com/user-attachments/assets/367ac8a0-2c81-4e67-a862-3b03d823add7" alt="2024 Streak 11" width="150" />
