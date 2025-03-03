@@ -17,8 +17,10 @@
 I'm a student with a deep love for **coding** and **chess**. I enjoy problem-solving and building innovative solutions. I'm always learning and exploring new fields, particularly in **AI**, **Machine Learning**, and **Web Development**.
 
 - 📍 **Location**: India 🇮🇳
-- 💻 **Languages**: Python, JavaScript, Java, C, SQL, etc.
+- 💻 **Languages**: Python, JavaScript,Swift, Java, C, SQL, etc.
 - 🧩 **Interests**: AI, Data Science, Web Development, Chess ♟️
+
+
 
 ---
 
@@ -26,6 +28,10 @@ I'm a student with a deep love for **coding** and **chess**. I enjoy problem-sol
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-suresh-7a38b1200/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyassuresh)
 [![Email](https://img.shields.io/badge/-Email-0D47A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyas30j@gmail.com)
+
+<p align="center">
+<a href="https://app.daily.dev/shreyassuresh"><img src="https://api.daily.dev/devcards/v2/nXxuR3dcF98NnyUaPCen5.png?type=wide&r=mts" width="652" alt="SHREYAS SURESH's Dev Card"/></a>
+</p>
 
 ---
 
