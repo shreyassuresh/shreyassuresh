@@ -35,47 +35,38 @@ I'm a student with a deep love for **coding** and **chess**. I enjoy problem-sol
 
 ---
 
-## 🧑‍💻 **GitHub Stats:**
+## 🧑‍💻 **GitHub & LeetCode Stats:**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyassuresh&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyassuresh&theme=tokyonight" alt="GitHub Profile Summary" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shreyassuresh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyassuresh&theme=tokyonight" alt="GitHub Productive Time" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyassuresh&theme=tokyonight" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyassuresh&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://leetcard.jacoblin.cool/Shreyas_Suresh?ext=contest&theme=dark&font=ubuntu" 
+           alt="LeetCode Contest Rating" 
+           width="90%" 
+           style="margin-top: -20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyassuresh&theme=tokyonight" alt="GitHub Productive Time" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyassuresh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyassuresh&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-
-
----
-
-## 🏅 **LeetCode Progress:**
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shreyas_Suresh?ext=contest&theme=dark&font=ubuntu" 
-       alt="LeetCode Contest Rating" 
-       width="90%" 
-       style="margin-top: -20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/13fe266e-3879-4976-a963-9bc4196056fd" alt="202501" width="100" />
-  <img src="https://github.com/user-attachments/assets/2cab995f-1484-4009-80ed-a30adefe0e2f" alt="2024 Streak 50" width="100" />
-  <img src="https://github.com/user-attachments/assets/467cce72-3fb6-4f3b-9204-1602c7b62dd8" alt="2024 Streak 12" width="100" />
-  <img src="https://github.com/user-attachments/assets/367ac8a0-2c81-4e67-a862-3b03d823add7" alt="2024 Streak 11" width="100" />
-</p>
-
----
 
 ## 🌐 **Languages and Tools I Use:**
 
